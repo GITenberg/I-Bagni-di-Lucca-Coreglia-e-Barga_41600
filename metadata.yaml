@@ -1,0 +1,34 @@
+_repo: I-Bagni-di-Lucca-Coreglia-e-Barga_41600
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41600-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bonaventura, Arnaldo
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '41255'
+    url: http://www.gutenberg.org/2009/agents/41255
+description: ''
+gutenberg_bookshelf: IT Geografia
+gutenberg_issued: '2012-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41600'
+  lccn: '16020178'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art -- Italy -- Bagni di Lucca'
+- !lcsh 'Bagni di Lucca (Italy) -- Description and travel'
+- !lcsh 'Coreglia (Italy) -- Description and travel'
+- !lcsh 'Barga (Italy) -- Description and travel'
+- !lcsh 'Art -- Italy -- Barga'
+- !lcc 'DG'
+- !lcsh 'Art -- Italy -- Coreglia'
+title: I Bagni di Lucca, Coreglia e Barga
+url: http://www.gutenberg.org/ebooks/41600
