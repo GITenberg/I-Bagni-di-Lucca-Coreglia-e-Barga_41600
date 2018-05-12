@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41255'
     url: http://www.gutenberg.org/2009/agents/41255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41600#I-Bagni-di-Lucca-Coreglia-e-Barga
 gutenberg_bookshelf: IT Geografia
 gutenberg_issued: '2012-12-10'
 gutenberg_type: Text
